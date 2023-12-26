@@ -1,6 +1,8 @@
 # MERN-Stack-shopping-application
 # click here to check live this shopping app 👉👉[https://lustrous-kangaroo-2329f7.netlify.app/](https://lustrous-kangaroo-2329f7.netlify.app)
 
+###kindly put email :- test@gmail.com
+### password :- Test1234
 ### kindly install required packages in both front-end(client folder) and back-end as well using (npm i) before starting the server
 ### then try running the server using 'npm run dev' command
 
